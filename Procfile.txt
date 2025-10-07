@@ -1,0 +1,1 @@
+worker: Kamil_Krypto_Bot.py
